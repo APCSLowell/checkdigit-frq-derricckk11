@@ -33,7 +33,7 @@ public class CheckDigit
      int num = numWithCheckDigit / 10;
      int newCheck = getCheck(num);
      
-     if(check = newCheck){
+     if(check == newCheck){
 
        return true;
      }
