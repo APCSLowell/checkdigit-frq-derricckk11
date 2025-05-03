@@ -38,7 +38,7 @@ public class CheckDigit
        return true;
      }
 
-     return false
+     return false;
    }    
    
    /** Returns the number of digits in num. */    
